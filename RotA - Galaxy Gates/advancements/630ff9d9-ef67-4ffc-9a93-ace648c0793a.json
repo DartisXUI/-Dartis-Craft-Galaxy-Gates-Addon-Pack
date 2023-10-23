@@ -1,0 +1,29 @@
+{
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2023-10-23 21:49:43 +1030"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2023-10-23 21:50:05 +1030"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-10-23 21:49:45 +1030"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-10-23 21:49:45 +1030",
+      "jungle_edge": "2023-10-23 22:02:22 +1030",
+      "roofed_forest": "2023-10-23 22:00:19 +1030",
+      "jungle": "2023-10-23 22:01:48 +1030"
+    },
+    "done": false
+  }
+}
