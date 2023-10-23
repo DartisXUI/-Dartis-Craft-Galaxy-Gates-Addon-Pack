@@ -6,9 +6,9 @@
 
 3 - Unzip locally
 
-4 - Add the RotA - Galaxy Gates Folder to your ".../minecraft/Saves Folder" (ideally before starting to play a new world)
+4 - Add the "RotA - Galaxy Gates" Folder to your ".../minecraft/Saves" Folder
 
-5 - Add the Config Folder to your ".../minecraft" Folder
+5 - Add the "config" Folder to your ".../minecraft" Folder
 
 NOTE: Overriding is required to add the new Stargate Seeded Worlds to your Save, as well as adding their Addresses to the Loot List.
 Any previous Progress in these Dimensions or Gates found will be lost. Therefore, best to do this before starting a new game.
