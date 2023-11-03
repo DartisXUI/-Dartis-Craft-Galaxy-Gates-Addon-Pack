@@ -1,0 +1,32 @@
+{
+  "silentgems:chaos_flower_pot": {
+    "criteria": {
+      "get_flower": "2023-11-04 00:37:40 +1030"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-04 00:35:18 +1030"
+    },
+    "done": true
+  },
+  "silentgems:get_glow_rose": {
+    "criteria": {
+      "get_items": "2023-11-04 00:37:40 +1030"
+    },
+    "done": true
+  },
+  "heroesexpansion:root": {
+    "criteria": {
+      "tick": "2023-11-04 00:35:19 +1030"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2023-11-04 00:35:19 +1030"
+    },
+    "done": false
+  }
+}
