@@ -1,0 +1,13 @@
+name = "kakusei-2-galaxy-gates"
+author = "Dartis-Craft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2aea3b958f30a0efe79c0c997696fae02d462ea978c118b36d5aac11f2054388"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
